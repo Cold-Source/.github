@@ -13,16 +13,10 @@ Our mission is to provide developers with robust tools, enhanced engine componen
 
 ---
 
-## 🌐 Ecosystem & Resources
-
-### 🛠️ Core Infrastructure
-*   [**Primary Issue Tracker**](https://github.com...) – The central hub for bug reports, feature requests, and technical discussions.
-*   [**Technical Documentation**](https://cold-source.org) – Deep dives into our modified engine branches and implementation guides.
-*   [**Branding & Assets**](https://cold-source.org) – Official logos, style guides, and visual identity resources for community use.
 
 ### 🎮 Powered by Cold Source
 We take pride in supporting ambitious projects that utilize our technologies:
-# coming soon!
+## coming soon!
 <!-- Эта строка будет скрыта и не отобразится на странице *   **[Project Name]** – An advanced modification focused on [brief description]. Check it out on [Steam](https://steampowered.com) or [GitHub](https://github.com).
 *   **[Project Name]** – Pushing the limits of Source spatial puzzles and logic. Available at [Project Website](https://example.com).-->
 
@@ -53,6 +47,4 @@ All code must be reviewed by at least one maintainer. We value constructive feed
 ---
 
 *“Amplify working with Source SDK and open-source projects.”*
-
-[Website](https://cold-source.org) • [Discord](https://discord.gg) • [Support Us](https://example.com)
 
