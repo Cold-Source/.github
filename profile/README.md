@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cold-Source/.github/blob/main/logo.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Cold-Source/.github/blob/main/sd.png?raw=true">
     <img width=512 src="https://branding.stratasource.org/i/strata/logo/onlight/color.svg">
   </picture>
 </p>
